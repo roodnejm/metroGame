@@ -1,0 +1,181 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon-beach3:before {
+	content: "\e000";
+}
+.flaticon-beach4:before {
+	content: "\e001";
+}
+.flaticon-boat12:before {
+	content: "\e002";
+}
+.flaticon-building21:before {
+	content: "\e003";
+}
+.flaticon-building22:before {
+	content: "\e004";
+}
+.flaticon-building23:before {
+	content: "\e005";
+}
+.flaticon-building24:before {
+	content: "\e006";
+}
+.flaticon-buildings5:before {
+	content: "\e007";
+}
+.flaticon-castle7:before {
+	content: "\e008";
+}
+.flaticon-church7:before {
+	content: "\e009";
+}
+.flaticon-coconut5:before {
+	content: "\e00a";
+}
+.flaticon-compass44:before {
+	content: "\e00b";
+}
+.flaticon-compass45:before {
+	content: "\e00c";
+}
+.flaticon-compass46:before {
+	content: "\e00d";
+}
+.flaticon-compass47:before {
+	content: "\e00e";
+}
+.flaticon-compass49:before {
+	content: "\e00f";
+}
+.flaticon-compass50:before {
+	content: "\e010";
+}
+.flaticon-factory7:before {
+	content: "\e011";
+}
+.flaticon-factory8:before {
+	content: "\e012";
+}
+.flaticon-flag31:before {
+	content: "\e013";
+}
+.flaticon-flag32:before {
+	content: "\e014";
+}
+.flaticon-heart206:before {
+	content: "\e015";
+}
+.flaticon-map35:before {
+	content: "\e016";
+}
+.flaticon-map36:before {
+	content: "\e017";
+}
+.flaticon-map37:before {
+	content: "\e018";
+}
+.flaticon-map38:before {
+	content: "\e019";
+}
+.flaticon-map39:before {
+	content: "\e01a";
+}
+.flaticon-map40:before {
+	content: "\e01b";
+}
+.flaticon-map41:before {
+	content: "\e01c";
+}
+.flaticon-map42:before {
+	content: "\e01d";
+}
+.flaticon-map43:before {
+	content: "\e01e";
+}
+.flaticon-map44:before {
+	content: "\e01f";
+}
+.flaticon-map45:before {
+	content: "\e020";
+}
+.flaticon-map46:before {
+	content: "\e021";
+}
+.flaticon-map47:before {
+	content: "\e022";
+}
+.flaticon-map48:before {
+	content: "\e023";
+}
+.flaticon-map49:before {
+	content: "\e024";
+}
+.flaticon-map50:before {
+	content: "\e025";
+}
+.flaticon-map51:before {
+	content: "\e026";
+}
+.flaticon-map52:before {
+	content: "\e027";
+}
+.flaticon-map53:before {
+	content: "\e028";
+}
+.flaticon-map54:before {
+	content: "\e029";
+}
+.flaticon-map55:before {
+	content: "\e02a";
+}
+.flaticon-map56:before {
+	content: "\e02b";
+}
+.flaticon-map57:before {
+	content: "\e02c";
+}
+.flaticon-map58:before {
+	content: "\e02d";
+}
+.flaticon-map59:before {
+	content: "\e02e";
+}
+.flaticon-map60:before {
+	content: "\e02f";
+}
+.flaticon-palm9:before {
+	content: "\e030";
+}
+.flaticon-placeholder4:before {
+	content: "\e031";
+}
+.flaticon-sailboat5:before {
+	content: "\e032";
+}
+.flaticon-sunbathing1:before {
+	content: "\e033";
+}
+.flaticon-sunbathing:before {
+	content: "\e034";
+}
+.flaticon-tower15:before {
+	content: "\e035";
+}
+.flaticon-town:before {
+	content: "\e036";
+}

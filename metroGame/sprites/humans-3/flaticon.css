@@ -1,0 +1,316 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon-angel6:before {
+	content: "\e000";
+}
+.flaticon-astrologer:before {
+	content: "\e001";
+}
+.flaticon-baby11:before {
+	content: "\e002";
+}
+.flaticon-baby126:before {
+	content: "\e003";
+}
+.flaticon-baseball13:before {
+	content: "\e004";
+}
+.flaticon-bicyclist:before {
+	content: "\e005";
+}
+.flaticon-bookkeeper:before {
+	content: "\e006";
+}
+.flaticon-boy13:before {
+	content: "\e007";
+}
+.flaticon-business60:before {
+	content: "\e008";
+}
+.flaticon-business61:before {
+	content: "\e009";
+}
+.flaticon-catcher:before {
+	content: "\e00a";
+}
+.flaticon-chef2:before {
+	content: "\e00b";
+}
+.flaticon-cooking3:before {
+	content: "\e00c";
+}
+.flaticon-cool4:before {
+	content: "\e00d";
+}
+.flaticon-couple53:before {
+	content: "\e00e";
+}
+.flaticon-crash:before {
+	content: "\e00f";
+}
+.flaticon-criminal:before {
+	content: "\e010";
+}
+.flaticon-crowd:before {
+	content: "\e011";
+}
+.flaticon-dancer1:before {
+	content: "\e012";
+}
+.flaticon-dancer:before {
+	content: "\e013";
+}
+.flaticon-devil2:before {
+	content: "\e014";
+}
+.flaticon-dude1:before {
+	content: "\e015";
+}
+.flaticon-dude:before {
+	content: "\e016";
+}
+.flaticon-electrical:before {
+	content: "\e017";
+}
+.flaticon-engineer:before {
+	content: "\e018";
+}
+.flaticon-family11:before {
+	content: "\e019";
+}
+.flaticon-frontal10:before {
+	content: "\e01a";
+}
+.flaticon-genius1:before {
+	content: "\e01b";
+}
+.flaticon-girl13:before {
+	content: "\e01c";
+}
+.flaticon-graduate6:before {
+	content: "\e01d";
+}
+.flaticon-group49:before {
+	content: "\e01e";
+}
+.flaticon-gymnast3:before {
+	content: "\e01f";
+}
+.flaticon-handy:before {
+	content: "\e020";
+}
+.flaticon-happy13:before {
+	content: "\e021";
+}
+.flaticon-karate2:before {
+	content: "\e022";
+}
+.flaticon-magician3:before {
+	content: "\e023";
+}
+.flaticon-male158:before {
+	content: "\e024";
+}
+.flaticon-male159:before {
+	content: "\e025";
+}
+.flaticon-male160:before {
+	content: "\e026";
+}
+.flaticon-male25:before {
+	content: "\e027";
+}
+.flaticon-man102:before {
+	content: "\e028";
+}
+.flaticon-man21:before {
+	content: "\e029";
+}
+.flaticon-man23:before {
+	content: "\e02a";
+}
+.flaticon-man28:before {
+	content: "\e02b";
+}
+.flaticon-man29:before {
+	content: "\e02c";
+}
+.flaticon-man33:before {
+	content: "\e02d";
+}
+.flaticon-man43:before {
+	content: "\e02e";
+}
+.flaticon-man50:before {
+	content: "\e02f";
+}
+.flaticon-motorcyclist1:before {
+	content: "\e030";
+}
+.flaticon-multiple25:before {
+	content: "\e031";
+}
+.flaticon-palace:before {
+	content: "\e032";
+}
+.flaticon-pastor:before {
+	content: "\e033";
+}
+.flaticon-people16:before {
+	content: "\e034";
+}
+.flaticon-person200:before {
+	content: "\e035";
+}
+.flaticon-person20:before {
+	content: "\e036";
+}
+.flaticon-person27:before {
+	content: "\e037";
+}
+.flaticon-person29:before {
+	content: "\e038";
+}
+.flaticon-person37:before {
+	content: "\e039";
+}
+.flaticon-person38:before {
+	content: "\e03a";
+}
+.flaticon-person40:before {
+	content: "\e03b";
+}
+.flaticon-person60:before {
+	content: "\e03c";
+}
+.flaticon-persons:before {
+	content: "\e03d";
+}
+.flaticon-pilot:before {
+	content: "\e03e";
+}
+.flaticon-profile24:before {
+	content: "\e03f";
+}
+.flaticon-quarrel:before {
+	content: "\e040";
+}
+.flaticon-robot6:before {
+	content: "\e041";
+}
+.flaticon-rugby5:before {
+	content: "\e042";
+}
+.flaticon-scientist:before {
+	content: "\e043";
+}
+.flaticon-security22:before {
+	content: "\e044";
+}
+.flaticon-sherlock:before {
+	content: "\e045";
+}
+.flaticon-silhouette6:before {
+	content: "\e046";
+}
+.flaticon-speaker48:before {
+	content: "\e047";
+}
+.flaticon-sportive10:before {
+	content: "\e048";
+}
+.flaticon-sports13:before {
+	content: "\e049";
+}
+.flaticon-spy1:before {
+	content: "\e04a";
+}
+.flaticon-standing3:before {
+	content: "\e04b";
+}
+.flaticon-standing4:before {
+	content: "\e04c";
+}
+.flaticon-stockbroker1:before {
+	content: "\e04d";
+}
+.flaticon-stockbroker:before {
+	content: "\e04e";
+}
+.flaticon-sumo:before {
+	content: "\e04f";
+}
+.flaticon-surgeon1:before {
+	content: "\e050";
+}
+.flaticon-surgeon:before {
+	content: "\e051";
+}
+.flaticon-terrorist:before {
+	content: "\e052";
+}
+.flaticon-two39:before {
+	content: "\e053";
+}
+.flaticon-user80:before {
+	content: "\e054";
+}
+.flaticon-user81:before {
+	content: "\e055";
+}
+.flaticon-user82:before {
+	content: "\e056";
+}
+.flaticon-user83:before {
+	content: "\e057";
+}
+.flaticon-user84:before {
+	content: "\e058";
+}
+.flaticon-user86:before {
+	content: "\e059";
+}
+.flaticon-user87:before {
+	content: "\e05a";
+}
+.flaticon-user93:before {
+	content: "\e05b";
+}
+.flaticon-users10:before {
+	content: "\e05c";
+}
+.flaticon-users5:before {
+	content: "\e05d";
+}
+.flaticon-users6:before {
+	content: "\e05e";
+}
+.flaticon-users7:before {
+	content: "\e05f";
+}
+.flaticon-users8:before {
+	content: "\e060";
+}
+.flaticon-warning7:before {
+	content: "\e061";
+}
+.flaticon-weightlifter:before {
+	content: "\e062";
+}
+.flaticon-winner1:before {
+	content: "\e063";
+}
